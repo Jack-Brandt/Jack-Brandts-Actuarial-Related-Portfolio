@@ -16,8 +16,10 @@ body {
 h1 {
     font-family: sans-serif;
     color:white;
-    font-size:300%;
+    font-size:150%;
     text-align:center;
+    margin-top: 0;
+    padding: 1%;
 }
 p {
     color: black;
@@ -26,14 +28,15 @@ p {
     margin: 20px;
     text-align: left;
 }
-p.header {
-  color:white;
-}
 div.header {
   background-color:#222b36;
   text-align: center;
-
   padding: 1%;
+}
+div.top_bar {
+  background-color:#222b36;
+  color:white;
+  margin-top: 0;
 }
 div.butt {
   background-color: white;

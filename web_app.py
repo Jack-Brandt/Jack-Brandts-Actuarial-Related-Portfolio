@@ -1,7 +1,7 @@
 '''
-Author:
-Description:
-Notes:
+Author: Jack Brandt
+Description: This is the main file for the flask web app
+Notes: Run to start flask server
 '''
 from flask import Flask,render_template, request
 
@@ -12,9 +12,7 @@ app = Flask(__name__)
 @app.route("/", methods=["GET", "POST"])
 def homepage():
     if request.method == "POST":
-
         return ''
-
     # If the request method is GET, return the home page
     return render_template('home.html')
 
