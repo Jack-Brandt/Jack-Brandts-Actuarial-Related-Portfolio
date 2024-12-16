@@ -1,4 +1,5 @@
 * Finish homepage
+* Finish README
 * Figure out what skills to demonstrate and create a button for them
     * Exam P material
     * Exam FM material
