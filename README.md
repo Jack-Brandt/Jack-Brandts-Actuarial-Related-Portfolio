@@ -39,7 +39,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -59,20 +58,12 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 ### Built With
 
-* [![SQL][SQL][PostgreSQL-url]]
-* [![Python][Python][Python-url]]
-* [![SAS][SAS][SAS-url]]
-* [![Access][Access][Access-url]]
-* [![Power BI][Power BI][Power-BI-url]]
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* SQL
+* Python
+* SAS
+* Access
+* Power BI
+* Excel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,24 +118,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
-Jack Brandt - [![linkedin-shield][LinkedIn][linkedin-url]] - jack-brandt@comcast.net
+Jack Brandt - [LinkedIn](https://www.linkedin.com/in/jack-brandt-811885312/) - jack-brandt@comcast.net
 
 Project Link: [https://github.com/Jack-Brandt/Jack-Brandts-Actuarial-Related-Portfolio](https://github.com/Jack-Brandt/Jack-Brandts-Actuarial-Related-Portfolio)
 
